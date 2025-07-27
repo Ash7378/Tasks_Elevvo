@@ -8,6 +8,9 @@ Task 1 : Sales Performance DashBoard Using Excel <br>
 
 
 
-Task 2 : EXPLORATORY DATA ANALYSIS ON TITANIC DATASET <br>
+Task 2(tasks) : EXPLORATORY DATA ANALYSIS ON TITANIC DATASET <br>
 Dataset : https://www.kaggle.com/competitions/titanic/data <br>
 Libraries Used : Pandas ,Matplotlib and Seaborn
+
+Task 3:Customer Segmentation using RFM Analysis.
+Dataset:https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
